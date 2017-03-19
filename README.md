@@ -1,6 +1,6 @@
 # **_Crossover_** - Superhumans and the PFSDR
 
-*Compiled from OGL amd Creatve Commons content by Megan Alnico*
+*Compiled from OGL and Creatve Commons content by Megan Alnico*
 
 ## Starting Characters
 
@@ -32,9 +32,7 @@ The rules presented in *crossover* are specifically tailored to this type of her
 
 **Skilled:** Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
 
-**Educated:** Humans in the modern world have access to information and schooling unmatched at any time in human history. All humans my add one craft or profession in addition to one skill that is always considered "in-class". Starting characters receive one additional "in-class" skill per point of Intelligence bonus.
-
-**Automatic Languages:** Humans gain full proficiency in their native languages and are considered literate unless their backgrounds dictate otherwise.
+**Educated:** Humans in the modern world have access to information and schooling unmatched at any time in human history. Humans gain full proficiency in their native languages and are considered literate unless their backgrounds dictate otherwise. All humans my add one craft or profession in addition to one skill that is always considered "in-class". Starting characters receive one additional "in-class" skill  or language per point of Intelligence bonus.
 
 #### Superhuman Template (Archetype)
 **Description:** Individuals with this template gain fantastic physiological benefits upon the emergence. A superhuman may be stronger, faster or smarter than a normal human; he might be able to fly, fire bolts of energy from his hands or shape the weather by force of will. Such stupendous capabilities are channeled via a new ability: ***Quantum***. As a superhuman gains experience with his newfound powers and his M–R node continues to develop, he may develop powers to rival the gods of ancient myth.
@@ -46,53 +44,9 @@ The rules presented in *crossover* are specifically tailored to this type of her
 #### Creating a Superhuman Character
 **Phase One:** Human
  - Concept
+   djjdjd
  - Ability Scores: High Fantasy Point Buy (20)
  - Choose bonus Professions and Skills
 
 
 **Phase Two:** Superhuman
-
---------------------
-
-StackEdit supports **Markdown Extra**, which extends **Markdown** syntax with some nice features.
-
-> **Tip:** You can disable any **Markdown Extra** feature in the **Extensions** tab of the <i class="icon-cog"></i> **Settings** dialog.
-
-> **Note:** You can find more information about **Markdown** syntax [here][2] and **Markdown Extra** extension [here][3].
-
-
-### Tables
-
-**Markdown Extra** has a special syntax for tables:
-
-Item     | Value
--------- | ---
-Computer | $1600
-Phone    | $12
-Pipe     | $1
-
-You can specify column alignment with one or two colons:
-
-| Item     | Value | Qty   |
-| :------- | ----: | :---: |
-| Computer | $1600 |  5    |
-| Phone    | $12   |  12   |
-| Pipe     | $1    |  234  |
-
-
-### Definition Lists
-
-**Markdown Extra** has a special syntax for definition lists too:
-
-Term 1
-Term 2
-:   Definition A
-:   Definition B
-
-Term 3
-
-:   Definition C
-
-:   Definition D
-
-	> part of definition D
