@@ -2,13 +2,13 @@
 
 *Compiled from OGL and Creatve Commons content by Megan Alnico*
 
+---
+
 ## Starting Characters
 
 In general, the superhero genre features experienced characters whose capabilities don’t grow a significant amount over the course of their careers. In contrast, the PFSRD based games feature characters who start out with little experience but who can rise in power to shake the girders of the world.
 
 A **_Crossover_** series assumes the typical PFSRD approach, but it is nonetheless a game about near-godlike superhuman powers. It’s tough to embody such fearsome potency with a mere 1st-level character, so characters in a standard crossover campaign start at 3rd level. The character’s 1st level must be a class level, to which the superhuman template is applied. The character then selects two additional character levels — either two class levels, two Superhuman levels, two Aberrant levels (see Chapter Three: Quantum, “Aberrant Level”), or any combination thereof.
-
-> **Example**:  *Seth’s character idea is Deadbolt, a small-time thief who erupts as a superhuman. He selects scoundrel at 1st level, then applies the superhuman template. Seth now has two more character levels to take. He selects one additional level of scoundrel and decides on one level of aberrant (Deadbolt has a tough time controlling his quantum energies), creating a male human (superhuman) Sco2/Abr1 starting character.*
 
 This still won’t make the PCs as powerful as Superman or Magneto out of the gate — they must earn that kind of power and experience — but it does start them at a level superior to those everyday folks known as nonplayer characters (NPCs).
 
@@ -34,19 +34,33 @@ The rules presented in *crossover* are specifically tailored to this type of her
 
 **Educated:** Humans in the modern world have access to information and schooling unmatched at any time in human history. Humans gain full proficiency in their native languages and are considered literate unless their backgrounds dictate otherwise. All humans my add one craft or profession in addition to one skill that is always considered "in-class". Starting characters receive one additional "in-class" skill  or language per point of Intelligence bonus.
 
-#### Superhuman Template (Archetype)
-**Description:** Individuals with this template gain fantastic physiological benefits upon the emergence. A superhuman may be stronger, faster or smarter than a normal human; he might be able to fly, fire bolts of energy from his hands or shape the weather by force of will. Such stupendous capabilities are channeled via a new ability: ***Quantum***. As a superhuman gains experience with his newfound powers and his M–R node continues to develop, he may develop powers to rival the gods of ancient myth.
+**Skilled:** Humans receive 1 extra skill points at 1st level and 1
+extra skill point at each additional level.
+
+#### Superhuman Template
+**Description:** Individuals with this template gain fantastic physiological benefits upon their emergence. A superhuman may be stronger, faster or smarter than a normal human; he might be able to fly, fire bolts of energy from his hands or shape the weather by force of will. Such stupendous capabilities are channeled via a new ability: ***Quantum***. As a superhuman gains experience with his newfound powers continues to develop, he may develop powers to rival the gods of ancient myth.
 
 **Appearance:** Superhumans appear to be human, though in most cases they are impressive physical specimens. Whether large and strong or nimble and quick, Superhumans tend to catch the eye - they aren’t easily forgotten about or ignored.
 
 **Ability Score Racial Traits**: Superhuman characters gain a +2 racial bonus to one ability score of their choice at creation to represent their varied nature.
 
+**Bonus Feat:** Humans receive 1 bonus feat in addition to the
+single feat that all starting characters receive.
+
+**Quantum:** All Superhumans start with a Quantum score of 1.
+
 #### Creating a Superhuman Character
 **Phase One:** Human
- - Concept
-   djjdjd
- - Ability Scores: High Fantasy Point Buy (20)
- - Choose bonus Professions and Skills
-
+- Concept
+ - Name, Age, Height, Weight, Family Structure
+ - Human Job, Education, Social Standing
+- Ability Scores: High Fantasy Point Buy (20)
+- Choose bonus Professions and Skills
 
 **Phase Two:** Superhuman
+- Apply superhuman template
+ - Assign your + 2 ability bonus
+- Choose a class
+  - Entertainer, Investigator, Scholar, Scoundrel or Warrior
+  - Assign Hit Points (max at first level)
+  -
